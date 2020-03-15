@@ -1,0 +1,6 @@
+[submodule "lib/ATmega644-onewire"]
+	path = lib/ATmega644-onewire
+	url = https://github.com/pmalskorn/ATmega644-onewire
+[submodule "lib/ATmega644-ds18b20"]
+	path = lib/ATmega644-ds18b20
+	url = https://github.com/pmalskorn/ATmega644-ds18b20
